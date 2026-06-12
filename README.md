@@ -57,7 +57,7 @@ Sistem ini membantu **penyewa menemukan kost terdekat** menggunakan perhitungan 
   https://github.com/Kostrakan/cust-kostrakan-frontend.git
 
 * 💻 Web App (Pemilik - Vue.js):
-  https://github.com/USERNAME/kostrakan-web
+  https://github.com/Kostrakan/own-kostrakan-frontend.git
 
 * ⚙️ Backend API (Node.js):
   https://github.com/USERNAME/kostrakan-backend
