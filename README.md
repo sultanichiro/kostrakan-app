@@ -54,7 +54,7 @@ Sistem ini membantu **penyewa menemukan kost terdekat** menggunakan perhitungan 
 ## 🔗 Repositories
 
 * 📱 Mobile App (Penyewa - Kotlin):
-  https://github.com/USERNAME/kostrakan-mobile
+  https://github.com/Kostrakan/cust-kostrakan-frontend.git
 
 * 💻 Web App (Pemilik - Vue.js):
   https://github.com/USERNAME/kostrakan-web
