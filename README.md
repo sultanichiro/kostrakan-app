@@ -60,7 +60,7 @@ Sistem ini membantu **penyewa menemukan kost terdekat** menggunakan perhitungan 
   https://github.com/Kostrakan/own-kostrakan-frontend.git
 
 * ⚙️ Backend API (Node.js):
-  https://github.com/USERNAME/kostrakan-backend
+  https://github.com/Kostrakan/kostrakan-backend-api.git
 
 ---
 
